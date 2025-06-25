@@ -1,5 +1,5 @@
 import os
-os.environ['JAVA_HOME'] = r'C:\Users\welcom\.jdks\corretto-1.8.0_452'
+
 
 
 import pyspark
